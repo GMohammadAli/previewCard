@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).This project is created using Material UI.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is created using Material UI and deployed on Netlify : https://splendid-dieffenbachia-01e15c.netlify.app
 
 ## Available Scripts
 
